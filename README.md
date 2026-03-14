@@ -76,6 +76,7 @@ comm file1 file2
 diff file1 file2
 ```
 ## OUTPUT
+![Alt text](img/image-5.5.png)
 
 ---
 
